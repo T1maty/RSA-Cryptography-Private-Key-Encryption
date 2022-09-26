@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA Cryptography Private Key Encryption", "RSA Cryptography Private Key Encryption\RSA Cryptography Private Key Encryption.csproj", "{086E268C-024B-4855-9E25-EAEB64D89C43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086E268C-024B-4855-9E25-EAEB64D89C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086E268C-024B-4855-9E25-EAEB64D89C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086E268C-024B-4855-9E25-EAEB64D89C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086E268C-024B-4855-9E25-EAEB64D89C43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B7BD124-3EEC-4D1D-BA8B-817772C96B56}
+	EndGlobalSection
+EndGlobal
